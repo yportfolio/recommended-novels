@@ -46,7 +46,9 @@ const useStyles = makeStyles((theme) => ({
 
 export default function SignUp() {
   const classes = useStyles();
-
+  const handleOnClick = (e) => {
+    e.preventDefault();
+  };
   return (
     <Container component="main" maxWidth="xs">
       <CssBaseline />
@@ -112,6 +114,7 @@ export default function SignUp() {
             variant="contained"
             color="primary"
             className={classes.submit}
+            onClick={handleOnClick}
           >
             Sign Up
           </Button>
