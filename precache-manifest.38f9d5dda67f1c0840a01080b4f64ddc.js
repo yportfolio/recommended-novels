@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d16ca2d76c8f8a60e55d5056629e8ea2",
+    "revision": "4b51c53d94da1b03b99138b9eb334ce9",
     "url": "/recommended-novels/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recommended-novels/static/js/2.78591384.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1c36a7fd89dd1c307a0",
-    "url": "/recommended-novels/static/js/main.662effad.chunk.js"
+    "revision": "81ab7f49137473a654a2",
+    "url": "/recommended-novels/static/js/main.929ba9c0.chunk.js"
   },
   {
     "revision": "2c0e027f46be9cef19c7",
